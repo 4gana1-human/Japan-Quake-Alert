@@ -1,4 +1,4 @@
-# Earthquake-Alert (拡張機能)
+# Japan Quake Alert (JQA拡張機能)
  - 緊急地震速報(予報)・(警報)を通知する拡張機能
  [導入はこちら]()
 
