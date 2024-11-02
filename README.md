@@ -1,6 +1,6 @@
 # Japan Quake Alert (JQA拡張機能)
  - 緊急地震速報(予報)・(警報)を通知する拡張機能
- [導入はこちら]()
+ [導入はこちら](https://github.com/4gana1-human/Japan-Quake-Alert/releases/tag/v0.1.0)
 
 ## ご利用に当たっての注意
  - [気象庁「緊急地震速報について」](https://www.data.jma.go.jp/svd/eew/data/nc/)を確認し、緊急地震速報について正しく理解したうえでご利用ください。
