@@ -1,4 +1,8 @@
 # Japan Quake Alert (JQA拡張機能)
+
+![](https://img.shields.io/github/downloads/4gana1_human/Japna-Quake-Alert/total)
+![](https://img.shields.io/github/v/release/4gana1_human/Japan-Quake-Alert)
+
  - 緊急地震速報(予報)・(警報)を通知する拡張機能
  [導入はこちら](https://github.com/4gana1-human/Japan-Quake-Alert/releases/tag/v0.1.0)
 
