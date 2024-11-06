@@ -13,5 +13,12 @@
  - あくまでも、補助的な機能です。テレビ、信頼できる情報機関等からの最新情報をご確認ください。
  - 地震情報の取得を過度に行いすぎると、[情報源](https://www.p2pquake.net/develop/json_api_v2/#/P2P%E5%9C%B0%E9%9C%87%E6%83%85%E5%A0%B1%20API/get_ws:~:text=/history%3A%2060%20%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88/%E5%88%86%20(IP%20%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E6%AF%8E))からのレスポンスが遅くなったり、拒否 (HTTP ステータスコード 429) される場合があります。 
 
+## 変更履歴
+**必ず、最新のものをダウンロードしてご利用ください。**
+
+v0.1.1 通知が来ないバグを修正 2024/11/4 **[(最新)](https://github.com/4gana1-human/Japan-Quake-Alert/releases/download/v0.1.1/Japan-Quake-Alert.zip)**
+
+v0.1.0 プレリリース 2024/11/2
+
 ## お問い合わせ
  - [お問い合わせフォーム](https://forms.office.com/r/hLmadvpif4)
