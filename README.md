@@ -14,7 +14,9 @@
 ## 変更履歴
 **必ず、最新のものをダウンロードしてご利用ください。**
 
-v0.2.0 UIおよび追加機能の変更 2024/11/17 **[(最新)](https://github.com/4gana1-human/Japan-Quake-Alert/releases/download/v0.2.0/Japan-Quake-Alert.zip)**
+v0.2.1 最大震度表示の処理の仕方を変更 2024/11/27 **[(最新)](https://github.com/4gana1-human/Japan-Quake-Alert/releases/download/v0.2.1/Japan-Quake-Alert-v0.2.1.zip)**
+
+v0.2.0 UIおよび追加機能の変更 2024/11/17 
 
 v0.1.1 通知が来ないバグを修正 2024/11/4 
 
