@@ -1,7 +1,7 @@
 # Japan Quake Alert (chrome拡張機能)
 
  - 緊急地震速報(予報)・(警報)を通知する拡張機能
- [導入はこちら](https://github.com/4gana1-human/Japan-Quake-Alert/releases/tag/v0.2.0)
+ [導入はこちら](https://github.com/4gana1-human/Japan-Quake-Alert/releases/tag/v0.3.0)
  - 導入方法および使い方 → [外部サイト](https://note.com/4gana1_human/n/n7032c0c6ff26?sub_rt=share_sb)
 
 ## ご利用に当たっての注意
@@ -14,7 +14,9 @@
 ## 変更履歴
 **必ず、最新のものをダウンロードしてご利用ください。**
 
-v0.2.1 最大震度表示の処理の仕方を変更 2024/11/27 **[(最新)](https://github.com/4gana1-human/Japan-Quake-Alert/releases/download/v0.2.1/Japan-Quake-Alert-v0.2.1.zip)**
+v0.3.0 詳細設定の追加および一部UIの変更(非推奨版) 2024/12/21 **[(最新)](https://github.com/4gana1-human/Japan-Quake-Alert/releases/download/v0.3.0/Japan-Quake-Alert-v0.3.0.zip)**
+
+v0.2.1 最大震度表示の処理の仕方を変更 2024/11/27 
 
 v0.2.0 UIおよび追加機能の変更 2024/11/17 
 
